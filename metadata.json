@@ -1,0 +1,5 @@
+{
+  "name": "DreamColor",
+  "description": "AI-powered children's coloring book generator. Create custom coloring pages based on any theme and download them as a PDF.",
+  "requestFramePermissions": []
+}
